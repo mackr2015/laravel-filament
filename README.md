@@ -12,7 +12,12 @@
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+#### Tutorial Source
+
+- [Part 1](https://www.youtube.com/watch?v=iVThaG_sAt0&list=PLl9U9DCkJjWnNDf_8mpNAnEeqIiljwDoE&index=103&t=1584s)
+- [Part 2](https://www.youtube.com/watch?v=2ZkePm2D6SI&list=PLl9U9DCkJjWnNDf_8mpNAnEeqIiljwDoE&index=105&t=18s)
+
+### Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
@@ -21,6 +26,6 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 
-## License
+### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
