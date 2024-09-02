@@ -1,6 +1,8 @@
 ## Laravel with Filament and ReactJS
 
 
+Change for quick deployment +++++++++++++
+
 - Laravel app build with Filament Admin components and ReactJS for the front-end views
 - Laravel Docs current build v10 [Doc link](https://laravel.com)
 - Filament Docs [Doc link](https://filamentphp.com/docs)
